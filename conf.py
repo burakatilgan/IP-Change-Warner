@@ -1,7 +1,7 @@
 #sender-receiver mails and password
-sender_mail = "maildenemeleri3535@gmail.com"
-sender_password = "**123456**"
-receiver_mail = "maildenemeleri3535@gmail.com"
+sender_mail = "example@gmail.com"
+sender_password = "**example**"
+receiver_mail = "example@gmail.com"
 
 #messages
 warning_message = "IP adresinde degisiklik saptandi.\nYeni IP adresiniz: "
